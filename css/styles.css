@@ -1,3 +1,7 @@
+html {
+   scroll-behavior: smooth;
+}
+
 body {
    font-family: "Open Sans", sans-serif;
 }
@@ -14,7 +18,7 @@ header h2 {
    color: #CEC8FF;
 }
 
-footer {
+.site-footer {
    background-image: linear-gradient(#CEC8FF, white);
    padding: 20px 0;
 }
